@@ -1,0 +1,13 @@
+import = [
+    "~/.config/alacritty/themes/theme/catppuccin_mocha.toml"
+]
+
+[window]
+    opacity =  0.75
+    blur = true
+    padding = {x = 4, y=4}    
+    dynamic_padding = true
+   
+[font]
+    normal = { family = "JetBrainsMono NF", style="Regular"}
+    size = 18
